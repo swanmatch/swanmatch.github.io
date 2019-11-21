@@ -6,14 +6,14 @@
 
 切って繋げて基板設計できなくても光るオリジナル配列のキーボードが作れるPCB。
 
-### [SHIROTRON](./shiroton)
+### [SHIROTRON](./shirotron)
 
 μTRONを意識した親指の運指を目指した、無限の可能性ベースのキーボード。  
-今思うとそれほどTRONではない。
+  今思うとそれほどTRONではない。
 
 キャッチフレーズは「電脳世界を翔る銀翼の翼」
 
-### [Colosseum](./colosseum60)
+### [Colosseum60/44](./colosseum60)
 
 世界初フルカラーLEDの自作3Dキーボード。
 
@@ -39,7 +39,7 @@ OLEDと感圧スピーカー対応可能。
 
 ## Ruby、Rails
 
-### [SwanTemplate](./swanTemplate)
+### [SwanTemplate](./SwanTemplate)
 
 RailsのScaffoldをめちゃくちゃ弄るやつ。  
 Bootstrap適用してindexに検索機能とか自動でつけたりその他諸々。
@@ -49,14 +49,13 @@ Railsのバージョンアップのたびに死んで、しばらくすると蘇
 ### [SakuraBrain](./SakuraBrain)
 
 [RubyBrain](https://github.com/elgoog/ruby_brain)を利用して、
-ニューラルネットで桜の全国のSakuraの開花日を予測する人工知能。
+ニューラルネットで全国の桜の開花日を予測する人工知能。
 
 Railsで作ってあるが、画面を作っていないのでRailsである必要はない。
 
 [typing](./typing)
 
 ruby製の超お手軽CUIタイピングソフト。
-
 ymlを指定することで問題をカスタムすることが可能。
 
 
@@ -64,8 +63,8 @@ ymlを指定することで問題をカスタムすることが可能。
 
 ### [jiskb_evoluter](./jiskb_evoluter)
 
-普通のJIS配列のキーボードの変換無変換を、
+普通のJIS配列のキーボードの変換無変換に、
 自作キーボードのRaise,Lower相当の機能を追加する、
-AutoHotKey製の常駐ソフト。  
+[AutoHotKey](https://www.autohotkey.com)製の常駐ソフト。  
 同時押しを活用することで、ホームポジションから腕を動かすことなくPC操作が可能になる。
 
